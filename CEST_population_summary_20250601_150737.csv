@@ -1,0 +1,4 @@
+scenario,final_population,extinction_time,min_population,max_deficit
+step_disturbance,942.82561816004,,100.0,6.666664933220184
+ramp_disturbance,-1.205692534158423e-10,34.86973947895792,-4.704720611247196e-10,15.555556201349345
+impulse_disturbance,942.82561816004,,100.0,6.0
